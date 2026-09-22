@@ -1,5 +1,7 @@
 <Solution>
-  <Folder Name="/Proto/" />
+  <Folder Name="/Proto/">
+    <File Path="dummy.proto" />
+  </Folder>
   <Project Path="Client/Client.csproj" Id="087aa5e7-3e1a-4136-8275-c2873d1a2642" />
   <Project Path="Server/Server.csproj" Id="7bdcc2e7-41c9-4102-a818-5bbf78686751" />
 </Solution>
